@@ -1,0 +1,14 @@
+Welcome to the FAQ Chatbot!
+Type your question (e.g., what is ai). Type 'exit' to quit.
+
+You: What is AI
+Bot: AI stands for Artificial Intelligence.
+
+You: what is python
+Bot: Python is a programming language used in AI.
+
+You: what is java
+Bot: Sorry, I don't understand that question.
+
+You: exit
+Bot: Goodbye!
